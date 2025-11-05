@@ -1,7 +1,7 @@
 # <span style="color: rgb(0, 255, 205);">**EmoShortcuts**</span>
 ![Introduction](Figures/1.Introduction.jpg)
 
-**Authors**: [Hyuna Seo](https://hyunaseo.github.io), Youngki Lee, Rajesh Balan, Thivya Kandappu
+**Authors**: [HyunA Seo](https://hyunaseo.github.io), Youngki Lee, Rajesh Balan, Thivya Kandappu
 
 **Publication**: ACM UIST, Sept 2025
 
